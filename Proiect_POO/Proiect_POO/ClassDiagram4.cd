@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Interfata">
+    <Position X="49.75" Y="11" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfata.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tratamente">
+    <Position X="47.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAQAAgAAAAgAAAAEAAAAAEACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tratamente.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Persoana">
+    <Position X="52" Y="9.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEEkAgAAAAgAAQJEAAABAAAABAEAAAKAAABAAABARA=</HashCode>
+      <FileName>Persoana.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Data">
+    <Position X="54.25" Y="10.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACBACAAAQAAAAAIAAEAAAAAAAAAABAAAAACAQAAAAg=</HashCode>
+      <FileName>Data.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Incasari">
+    <Position X="57" Y="10.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAABCAAAhAAAAAAIAAAAAAAAAgAABAAAAEAEAA=</HashCode>
+      <FileName>Incasari.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="List">
+    <Position X="54.25" Y="13.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Lista.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="READER">
+    <Position X="57" Y="13.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAABACBEAAAAAAAA=</HashCode>
+      <FileName>Utils.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
